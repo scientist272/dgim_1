@@ -30,6 +30,6 @@ public class Main {
         while(iterator.hasNext()){
             System.out.println(iterator.next());
         }
-        System.out.println(dgim.getContent());
+        System.out.println("The count of 1: "+ dgim.getContent());
     }
 }
